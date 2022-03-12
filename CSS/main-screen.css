@@ -1,0 +1,23 @@
+header {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-header {
+  display: flex;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  color: white;
+}
+
+.main-a {
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+}
+
+.main-header_input {
+  padding: 5px;
+  width: 200px;
+}
