@@ -19,5 +19,6 @@ header {
 
 .main-header_input {
   padding: 5px;
-  width: 200px;
+  width: 300px;
+  margin-bottom: 0px;
 }
